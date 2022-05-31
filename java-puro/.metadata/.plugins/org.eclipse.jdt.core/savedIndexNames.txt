@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Dio-padroes-projetos-java\java-puro\.metadata\.plugins\org.eclipse.jdt.core
+1199663040.index
+1865797976.index
+724439196.index
